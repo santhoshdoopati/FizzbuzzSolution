@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{12C14981-5990-4991-8C7C-94F6C751ABD1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FB/Controllers/FBController.cs">
+    <Files>
+      <File FileName="FB/Web.config" Line="1" Column="1" />
+      <File FileName="FB/App_Start/WebApiConfig.cs" />
+      <File FileName="FB/Web.Debug.config" />
+      <File FileName="FB/Web.Release.config" />
+      <File FileName="FB/Global.asax" />
+      <File FileName="FB/packages.config" />
+      <File FileName="FB/Controllers/FBController.cs" Line="1" Column="1" />
+      <File FileName="FB/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="FB/Database.cs" />
+      <File FileName="FB/UnitTest.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FB" expanded="True">
+            <Node name="FB" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="FBController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Web.config" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FB PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
